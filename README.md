@@ -7,10 +7,13 @@ Sobre mim :smiley:
 - 📫 &nbsp;Como me encontrar: **marlonfleite50@gmail.com**
 
 
-📕 &nbsp;**Meus últimos projetos**
+💻 &nbsp;**Meus últimos projetos**
 <!-- BLOG-POST-LIST:START -->
 - [Adote Uma Causa](https://github.com/MarlonFL15/Adote-uma-Causa)
+- [Árvores de expressão](https://github.com/MarlonFL15/Arvores-de-expressao)
 <!-- BLOG-POST-LIST:END -->
+
+📕 &nbsp;**Acompanhe meus estudos em Django clicando [aqui](https://github.com/MarlonFL15/Estudos-Django)**
 
 🔗 &nbsp;**Conecte-se comigo**
 <p align="left">
