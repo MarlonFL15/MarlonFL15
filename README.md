@@ -9,10 +9,11 @@ Sobre mim :smiley:
 
 💻 &nbsp;**Meus últimos projetos**
 <!-- BLOG-POST-LIST:START -->
-- [Adote Uma Causa (Site de Caridade)](https://github.com/MarlonFL15/Adote-uma-Causa)
-- [Visualizador de Árvores de expressão](https://github.com/MarlonFL15/Arvores-de-expressao)
-- [Conversor de vídeo para áudio](https://github.com/MarlonFL15/Conversor-video-audio)
-- [Visualizador de algoritmo de coloração de grafos (Greedy Coloring)](https://github.com/MarlonFL15/Greedy-Visualization)
+- [Adote Uma Causa (Django)](https://github.com/MarlonFL15/Adote-uma-Causa)
+- [Controle de Leituras (Django)](https://github.com/MarlonFL15/Controle-de-leitura)
+- [Visualizador de Árvores de expressão (Python)](https://github.com/MarlonFL15/Arvores-de-expressao)
+- [Conversor de vídeo para áudio (Python)](https://github.com/MarlonFL15/Conversor-video-audio)
+- [Visualizador de algoritmo de coloração de grafos (Python)](https://github.com/MarlonFL15/Greedy-Visualization)
 <!-- BLOG-POST-LIST:END -->
 
 📕 &nbsp;**Acompanhe meus estudos em Django clicando [aqui](https://github.com/MarlonFL15/Estudos-Django)**
