@@ -14,6 +14,8 @@ Sobre mim :smiley:
 - [Visualizador de Árvores de expressão (Python)](https://github.com/MarlonFL15/Arvores-de-expressao)
 - [Conversor de vídeo para áudio (Python)](https://github.com/MarlonFL15/Conversor-video-audio)
 - [Visualizador de algoritmo de coloração de grafos (Python)](https://github.com/MarlonFL15/Greedy-Visualization)
+- [Sala de bate-papo (Node.js)](https://github.com/MarlonFL15/multiroom-chat)
+- [API Node.js e MongoDB (Node.js)](https://github.com/MarlonFL15/API-node-mongo)
 <!-- BLOG-POST-LIST:END -->
 
 📕 &nbsp;**Acompanhe meus estudos em Django clicando [aqui](https://github.com/MarlonFL15/Estudos-Django)**
